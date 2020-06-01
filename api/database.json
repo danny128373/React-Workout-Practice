@@ -1,0 +1,37 @@
+{
+  "exercises ": [
+    {
+      "id": 1,
+      "name": "bench press",
+      "url": "explains workout and gif demonstration"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Daniel",
+      "email": "daniel@gmail.com",
+      "password": "password123",
+      "weight": 155,
+      "height": "5'10\""
+    }
+  ],
+  "workoutlogs": [
+    {
+      "id": 1,
+      "date": "2020-05-31",
+      "workoutId": 1,
+      "notes": "Felt great."
+    }
+  ],
+  "workouts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "exerciseId": 1,
+      "sets": 8,
+      "weight": 155
+    }
+  ],
+  "friends": []
+}
